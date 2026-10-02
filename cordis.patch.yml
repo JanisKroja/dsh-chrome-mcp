@@ -1,0 +1,7 @@
+# Composed into any profile that depends on this package (package.json `dsh.bundle.patch`).
+# The entry id doubles as the Settings page key (Settings → Plugins → chrome-mcp).
+- insert:
+    - id: chrome-mcp
+      name: dsh-chrome-mcp
+      config:
+        serverName: chrome
