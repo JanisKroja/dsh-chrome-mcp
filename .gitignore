@@ -1,5 +1,6 @@
 node_modules/
 lib/
 coverage/
+.migration/
 *.tsbuildinfo
 .DS_Store
